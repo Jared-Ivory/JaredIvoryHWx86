@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\cse222macV4.h">
+    <ClInclude Include="cse222macV4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\JaredIvoryHWx86.c">
+    <ClCompile Include="JaredIvoryHWx86.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="JaredIvoryHWx86.txt" />
   </ItemGroup>
 </Project>

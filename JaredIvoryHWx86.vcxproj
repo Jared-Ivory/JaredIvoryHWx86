@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cse222macV4.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JaredIvoryHWx86.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="JaredIvoryHWx86.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{B5BA1D46-FEAA-4CA6-9863-81D1C79F9177}</ProjectGuid>
@@ -114,12 +123,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\cse222macV4.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\JaredIvoryHWx86.c" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

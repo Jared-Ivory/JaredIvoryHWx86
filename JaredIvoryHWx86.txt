@@ -1,0 +1,27 @@
+Student name: student name here
+
+CSE222 x86 practice submitted by: student name here
+
+
+                 run on : Mon May  7 21:58:00 2018
+
+                 running on computer <DESKTOP-6D6C6K0>
+
+--------------------------------------------------------------
+
+ for str1 <The red fox jump over the fence>
+          from ASMstrLen : 31  C strlen: 31
+
+------------------------------------------------------------
+
+ for str2 <The chicken and duck hide under the rose bushes>
+          from ASMstrLen : 47  C strlen: 47
+
+------------------------------------------------------------
+
+ find the sum of array  : 60
+
+------------------------------------------------------------
+
+
+hit any key  .......  quit
